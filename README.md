@@ -5,7 +5,7 @@ A simple job tracking app to manage job applications — mark interviews, track 
 </p>
 
 <p align="center">
-<a href="https://ratul-ai.github.io/PH-Assignment-04/">🔗 Live Demo</a>
+<a href="https://ratul-ai.github.io/Job-Application-Tracker/">🔗 Live Demo</a>
 </p>
 
 <p align="center">
